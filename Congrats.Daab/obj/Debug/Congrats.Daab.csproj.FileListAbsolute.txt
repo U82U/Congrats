@@ -1,0 +1,5 @@
+d:\Work\Congrats\Congrats.Daab\bin\Debug\Congrats.Daab.dll
+d:\Work\Congrats\Congrats.Daab\bin\Debug\Congrats.Daab.pdb
+d:\Work\Congrats\Congrats.Daab\obj\Debug\Congrats.Daab.csprojResolveAssemblyReference.cache
+d:\Work\Congrats\Congrats.Daab\obj\Debug\Congrats.Daab.dll
+d:\Work\Congrats\Congrats.Daab\obj\Debug\Congrats.Daab.pdb

@@ -1,0 +1,5 @@
+D:\Work\Congrats\Congrats.Core\bin\Debug\Congrats.Core.dll
+D:\Work\Congrats\Congrats.Core\bin\Debug\Congrats.Core.pdb
+D:\Work\Congrats\Congrats.Core\obj\Debug\Congrats.Core.csprojResolveAssemblyReference.cache
+D:\Work\Congrats\Congrats.Core\obj\Debug\Congrats.Core.dll
+D:\Work\Congrats\Congrats.Core\obj\Debug\Congrats.Core.pdb
