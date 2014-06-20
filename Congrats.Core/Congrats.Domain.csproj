@@ -7,8 +7,8 @@
     <ProjectGuid>{B489D341-20C8-4DAD-865B-1A3A86D63373}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Congrats.Core</RootNamespace>
-    <AssemblyName>Congrats.Core</AssemblyName>
+    <RootNamespace>Congrats.Domain</RootNamespace>
+    <AssemblyName>Congrats.Domain</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

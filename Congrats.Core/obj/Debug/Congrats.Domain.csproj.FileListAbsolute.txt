@@ -1,0 +1,5 @@
+D:\Work\Personal\Projects\Congrats\Congrats.Core\bin\Debug\Congrats.Domain.dll
+D:\Work\Personal\Projects\Congrats\Congrats.Core\bin\Debug\Congrats.Domain.pdb
+D:\Work\Personal\Projects\Congrats\Congrats.Core\obj\Debug\Congrats.Domain.csprojResolveAssemblyReference.cache
+D:\Work\Personal\Projects\Congrats\Congrats.Core\obj\Debug\Congrats.Domain.dll
+D:\Work\Personal\Projects\Congrats\Congrats.Core\obj\Debug\Congrats.Domain.pdb

@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Congrats", "Congrats\Congrats.csproj", "{6A967B3A-908B-472F-999A-0363F2BC01B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Congrats.WebUI", "Congrats\Congrats.WebUI.csproj", "{6A967B3A-908B-472F-999A-0363F2BC01B7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Congrats.Daab", "Congrats.Daab\Congrats.Daab.csproj", "{9F0A8C81-886D-4FB3-9869-6196FEC82E46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Congrats.Core", "Congrats.Core\Congrats.Core.csproj", "{B489D341-20C8-4DAD-865B-1A3A86D63373}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Congrats.Domain", "Congrats.Core\Congrats.Domain.csproj", "{B489D341-20C8-4DAD-865B-1A3A86D63373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Congrats.Data", "Congrats.Data\Congrats.Data.csproj", "{56D80A3F-451F-43C5-837A-53CBC99CAE6B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{B489D341-20C8-4DAD-865B-1A3A86D63373}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B489D341-20C8-4DAD-865B-1A3A86D63373}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B489D341-20C8-4DAD-865B-1A3A86D63373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56D80A3F-451F-43C5-837A-53CBC99CAE6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56D80A3F-451F-43C5-837A-53CBC99CAE6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56D80A3F-451F-43C5-837A-53CBC99CAE6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56D80A3F-451F-43C5-837A-53CBC99CAE6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
