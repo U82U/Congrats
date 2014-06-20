@@ -111,6 +111,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\MemberController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -133,11 +134,27 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Congrats.Core\Congrats.Domain.csproj">
+      <Project>{b489d341-20c8-4dad-865b-1a3a86d63373}</Project>
+      <Name>Congrats.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Congrats.Daab\Congrats.Daab.csproj">
+      <Project>{9f0a8c81-886d-4fb3-9869-6196fec82e46}</Project>
+      <Name>Congrats.Daab</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Congrats.Data\Congrats.Data.csproj">
+      <Project>{56d80a3f-451f-43c5-837a-53cbc99cae6b}</Project>
+      <Name>Congrats.Data</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\Member\List.cshtml" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

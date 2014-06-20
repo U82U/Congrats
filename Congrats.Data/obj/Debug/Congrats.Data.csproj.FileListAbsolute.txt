@@ -3,3 +3,5 @@ D:\Work\Personal\Projects\Congrats\Congrats.Data\bin\Debug\Congrats.Data.pdb
 D:\Work\Personal\Projects\Congrats\Congrats.Data\obj\Debug\Congrats.Data.csprojResolveAssemblyReference.cache
 D:\Work\Personal\Projects\Congrats\Congrats.Data\obj\Debug\Congrats.Data.dll
 D:\Work\Personal\Projects\Congrats\Congrats.Data\obj\Debug\Congrats.Data.pdb
+D:\Work\Personal\Projects\Congrats\Congrats.Data\bin\Debug\Congrats.Domain.dll
+D:\Work\Personal\Projects\Congrats\Congrats.Data\bin\Debug\Congrats.Domain.pdb

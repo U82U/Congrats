@@ -5,6 +5,9 @@ using Ninject;
 
 namespace Congrats.WebUI.Infrastructure
 {
+    using Congrats.Daab.Linq;
+    using Congrats.Data.Repository;
+
     public class NinjectControllerFactory : DefaultControllerFactory
     {
         private IKernel ninjectKernel;
@@ -27,6 +30,7 @@ namespace Congrats.WebUI.Infrastructure
 
         protected void AddBindings()
         {
+            ninjectKernel.Bind<IMemberRepository>().To<MemberRepository>();
         }
     }
 }

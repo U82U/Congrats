@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Congrats.Domain.Members.Member>
+
+@{
+    ViewBag.Title = "Members";
+}
+
+@foreach(var member in Model)
+{
+    <div>@member.LastName</div>
+}
+
+<h2>All Members</h2>

@@ -39,7 +39,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Linq\MemberRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Congrats.Core\Congrats.Domain.csproj">
+      <Project>{b489d341-20c8-4dad-865b-1a3a86d63373}</Project>
+      <Name>Congrats.Domain</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Congrats.Data\Congrats.Data.csproj">
+      <Project>{56d80a3f-451f-43c5-837a-53cbc99cae6b}</Project>
+      <Name>Congrats.Data</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

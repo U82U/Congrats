@@ -27,3 +27,9 @@ D:\Work\Personal\Projects\Congrats\Congrats\bin\System.Web.WebPages.Razor.xml
 D:\Work\Personal\Projects\Congrats\Congrats\obj\Debug\Congrats.WebUI.csprojResolveAssemblyReference.cache
 D:\Work\Personal\Projects\Congrats\Congrats\obj\Debug\Congrats.WebUI.dll
 D:\Work\Personal\Projects\Congrats\Congrats\obj\Debug\Congrats.WebUI.pdb
+D:\Work\Personal\Projects\Congrats\Congrats\bin\Congrats.Daab.dll
+D:\Work\Personal\Projects\Congrats\Congrats\bin\Congrats.Data.dll
+D:\Work\Personal\Projects\Congrats\Congrats\bin\Congrats.Domain.dll
+D:\Work\Personal\Projects\Congrats\Congrats\bin\Congrats.Domain.pdb
+D:\Work\Personal\Projects\Congrats\Congrats\bin\Congrats.Daab.pdb
+D:\Work\Personal\Projects\Congrats\Congrats\bin\Congrats.Data.pdb
