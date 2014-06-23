@@ -17,6 +17,5 @@ namespace Congrats.Domain.Members
         public string MiddleName { get; set; }
 
         public Gender Gender { get; set; }
-
     }
 }

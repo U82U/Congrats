@@ -33,3 +33,5 @@ D:\Work\Personal\Projects\Congrats\Congrats\bin\Congrats.Domain.dll
 D:\Work\Personal\Projects\Congrats\Congrats\bin\Congrats.Domain.pdb
 D:\Work\Personal\Projects\Congrats\Congrats\bin\Congrats.Daab.pdb
 D:\Work\Personal\Projects\Congrats\Congrats\bin\Congrats.Data.pdb
+D:\Work\Personal\Projects\Congrats\Congrats\bin\EntityFramework.dll
+D:\Work\Personal\Projects\Congrats\Congrats\bin\EntityFramework.xml

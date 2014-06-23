@@ -1,15 +1,16 @@
-﻿using Congrats.Data.Repository;
+﻿using System.Collections.Generic;
+using Congrats.Data.Repository;
 using Congrats.Domain.Members;
 
 namespace Congrats.Daab.Linq
 {
-    using System.Collections.Generic;
-
     /// <summary>
     /// The member repository.
     /// </summary>
     public class MemberRepository : IMemberRepository
     {
+        private EFDbContext Context  = new EFDbContext();
+        
         public Member GetMember(int memberId)
         {
             throw new System.NotImplementedException();
@@ -17,11 +18,7 @@ namespace Congrats.Daab.Linq
 
         public IEnumerable<Member> GetAllMembers()
         {
-            return new List<Member>
-                       {
-                           new Member{LastName = "Sidorovichev" },
-                           new Member{LastName = "Novik" },
-                       };
+            return Context.Members;
         }
 
         public void SaveMember(Member member)

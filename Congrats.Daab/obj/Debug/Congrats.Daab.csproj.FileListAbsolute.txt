@@ -12,3 +12,8 @@ D:\Work\Personal\Projects\Congrats\Congrats.Daab\bin\Debug\Congrats.Data.dll
 D:\Work\Personal\Projects\Congrats\Congrats.Daab\bin\Debug\Congrats.Domain.dll
 D:\Work\Personal\Projects\Congrats\Congrats.Daab\bin\Debug\Congrats.Domain.pdb
 D:\Work\Personal\Projects\Congrats\Congrats.Daab\bin\Debug\Congrats.Data.pdb
+D:\Work\Personal\Projects\Congrats\Congrats.Daab\bin\Debug\Congrats.Daab.dll.config
+D:\Work\Personal\Projects\Congrats\Congrats.Daab\bin\Debug\EntityFramework.dll
+D:\Work\Personal\Projects\Congrats\Congrats.Daab\bin\Debug\EntityFramework.SqlServer.dll
+D:\Work\Personal\Projects\Congrats\Congrats.Daab\bin\Debug\EntityFramework.xml
+D:\Work\Personal\Projects\Congrats\Congrats.Daab\bin\Debug\EntityFramework.SqlServer.xml
